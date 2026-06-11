@@ -15,4 +15,6 @@ Determine whether advertisements drive higher conversion rates compared to PSAs.
 - Python, Pandas, Matplotlib, Statsmodels
 
 ## Dataset
-marketing_AB.csv (not uploaded due to file size)
+- Source: [Marketing A/B Testing Dataset](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing)
+- 588,101 records, 6 columns
+- Download the CSV and place it in the `Data/` folder to run the notebook
